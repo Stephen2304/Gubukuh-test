@@ -15,6 +15,6 @@ const router = createRouter({
 
 app.use(router);
 
-app.component('vue-navigation-bar', VueNavigationBar);
+app.component('index', VueNavigationBar);
 
 app.mount('#app');

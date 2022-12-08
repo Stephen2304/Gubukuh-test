@@ -963,7 +963,7 @@ function render(_ctx, _cache, $props, $setup, $data, $options) {
 }
 
 script.render = render;
-script.__file = "src/vue-navigation-bar.vue";
+script.__file = "src/index.vue";
 
 // Import vue component
 

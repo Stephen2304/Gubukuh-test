@@ -827,7 +827,7 @@
   script$1.__file = "src/components/Popup.vue";
 
   var script = {
-    name: 'vue-navigation-bar',
+    name: 'index',
     mixins: [vueScreenSize.VueScreenSizeMixin],
     props: {
       options: {

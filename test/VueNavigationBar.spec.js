@@ -126,7 +126,7 @@ describe('index.vue', () => {
     expect(wrapper.vm.finalOptions.menuOptionsRight).toStrictEqual(initialProps.menuOptionsRight);
   });
 
-  it('Confirms the `vue-navigation-bar` was built', async () => {
+  it('Confirms the  was built', async () => {
     let initialProps = {
       elementId: 'main-navbar',
     };
@@ -139,6 +139,6 @@ describe('index.vue', () => {
       },
     });
 
-    expect(wrapper.findComponent({ name: 'vue-navigation-bar' })).toBeTruthy();
+    expect(wrapper.findComponent({ name: 'index' })).toBeTruthy();
   });
 });
