@@ -1,8 +1,6 @@
 {
-  "author": "John Datserakis <johndatserakis@gmail.com>",
-  "bugs": {
-    "url": "https://github.com/johndatserakis/vue-navigation-bar/issues"
-  },
+  "author": "Stephan Jacques <jacquesstephan10@gmail.com>",
+
   "dependencies": {
     "tippy.js": "^6.2.4",
     "vue-screen-size": "^2.0.0"
@@ -71,8 +69,7 @@
     "vue": "^3.2.31"
   },
   "repository": {
-    "type": "git",
-    "url": "git+https://github.com/johndatserakis/vue-navigation-bar.git"
+    "type": "git"
   },
   "scripts": {
     "build": "npm run test && npm run build:example && npm run build:library",
