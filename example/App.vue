@@ -2,8 +2,8 @@
   <div id="app">
     <section class="main-navbar-section mb-5">
       <div class="container">
-        <vue-navigation-bar :options="navbarOptions" @vnb-item-clicked="vnbItemClicked">
-        </vue-navigation-bar>
+        <index :options="navbarOptions" @vnb-item-clicked="vnbItemClicked">
+        </index>
       </div>
     </section>
 
@@ -163,7 +163,7 @@ body {
 }
 
 //
-// vue-navigation-bar customization below
+// index customization below
 //
 
 .main-navbar-section {

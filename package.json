@@ -64,7 +64,7 @@
   "license": "MIT",
   "main": "dist/vue-navigation-bar.umd.js",
   "module": "dist/vue-navigation-bar.esm.js",
-  "name": "vue-navigation-bar",
+  "name": "index",
   "peerDependencies": {
     "vue": "^3.2.31"
   },
