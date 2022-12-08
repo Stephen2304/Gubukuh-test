@@ -1,5 +1,5 @@
 // Import vue component
-import component from './vue-navigation-bar.vue';
+import component from './index.vue';
 
 // install function executed by Vue.use()
 export function install(app) {

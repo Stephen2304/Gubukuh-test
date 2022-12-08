@@ -1,7 +1,7 @@
 import { shallowMount } from '@vue/test-utils';
-import VueNavigationBar from '@/vue-navigation-bar.vue';
+import index from '@/index.vue';
 
-describe('VueNavigationBar.vue', () => {
+describe('index.vue', () => {
   it('Sets props correctly', async () => {
     let initialProps = {
       elementId: 'main-navbar',

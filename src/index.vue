@@ -38,7 +38,7 @@ import MenuOptions from './components/MenuOptions.vue';
 import Popup from './components/Popup.vue';
 
 export default {
-  name: 'vue-navigation-bar',
+  name: 'index',
 
   props: {
     options: {
