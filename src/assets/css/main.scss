@@ -1,0 +1,32 @@
+// Colors
+$white: #fff;
+$black: #333;
+$grey: #eee;
+$blue: #007aff;
+$orange: #ff9500;
+$red: #ff3b30;
+$focus-outline-blue: #6098ee;
+
+// Settings
+$focus-border: 1px solid $focus-outline-blue;
+$backgroundColor: $grey;
+$box-shadow: 0 10px 30px 0 rgba(0, 0, 0, 0.1);
+$border-radius: 4px;
+
+.title{
+    color: rgb(4, 4, 141);
+    font-size: 3rem;
+    position: absolute;
+}
+.sub-title{
+    position: absolute;
+    bottom: 500px;
+    color: rgb(156, 156, 156);  
+}
+
+.disposition-image {
+    margin-right: 10%;
+}
+.disposition-text {
+    margin-left: 10%;
+}
